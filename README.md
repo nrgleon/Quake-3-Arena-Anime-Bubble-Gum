@@ -11,3 +11,5 @@ https://q3msk.ru/ - Russians q3msk servers
 https://t.me/q3msk - Russians q3msk server chat Group
 https://t.me/+UqKf_t9BcyLmNRPt - My Clan Arena Community
 https://t.me/doszonemp - Browser Quake 3 arena Project
+
+You can support the author for developing the assembly using the Russian bank card details 2204 1201 2637 4442, or by writing to the Telegram channel @Glowing523.
