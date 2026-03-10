@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=uTvWxZgAbLo
 Another Download Link
 https://drive.google.com/file/d/1tgLKkmmxcbT1hYPcnF6QE6s4GdXq4oYc/view?usp=drivesdk
 Russian Public Servers and community about Quake 3 arena OSP modern engine servers.
-q3msk.ru/ - Russians q3msk servers
-t.me/q3msk - Russians q3msk server chat Group
-t.me/+UqKf_t9BcyLmNRPt - My Clan Arena Community
+https://q3msk.ru/ - Russians q3msk servers
+https://t.me/q3msk - Russians q3msk server chat Group
+https://t.me/+UqKf_t9BcyLmNRPt - My Clan Arena Community
 https://t.me/doszonemp - Browser Quake 3 arena Project
