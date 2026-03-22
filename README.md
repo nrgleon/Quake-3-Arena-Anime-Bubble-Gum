@@ -4,8 +4,11 @@ My own build of Quake 3 Arena: Anime bubble gum with a fully configured config a
 
 Video of Gameplay
 https://www.youtube.com/watch?v=uTvWxZgAbLo
-Another Download Link
+Download Link - Anime Bubble Gum
 https://drive.google.com/file/d/1tgLKkmmxcbT1hYPcnF6QE6s4GdXq4oYc/view?usp=drivesdk
+Download Link - Retro Bubble Gum
+https://drive.google.com/file/d/1JfXCnzqp4RsUTDhaJOFIbs36LjSBD9vZ/view?usp=drive_link
+
 Russian Public Servers and community about Quake 3 arena OSP modern engine servers.
 https://q3msk.ru/ - Russians q3msk servers
 https://t.me/q3msk - Russians q3msk server chat Group
