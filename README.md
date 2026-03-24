@@ -13,11 +13,15 @@ https://drive.google.com/file/d/1JfXCnzqp4RsUTDhaJOFIbs36LjSBD9vZ/view?usp=drive
 
 Download Link - Quake 3 Champions mod - bloodrun 2026-03-20 version
 https://drive.google.com/file/d/1T7qFMDT_hYMgLvVFChpgISy29mm-_Bd2/view?usp=sharing
+Download Link Quake 3 arena - Defrag neural network upscaled textures - 15gb
+https://mega.nz/file/UwYhnC6K#_K8wXITjnDOdM_0IQDlXTsWmpMynClP8kWPtuomjdys
 
 Download Link - Another Custom Modern Quake 3 Arena game builds
 https://scoqx.github.io/en/compilations.html
 
 Russian Public Servers and community about Quake 3 arena OSP modern engine servers.
+https://defrag.racing/ - Defrag Site
+https://discord.defrag.racing/ - Defrag Discord
 https://q3msk.ru/ - Russians q3msk servers
 https://t.me/q3msk - Russians q3msk server chat Group
 https://t.me/+UqKf_t9BcyLmNRPt - My Clan Arena Community
