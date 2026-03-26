@@ -7,12 +7,12 @@ https://www.youtube.com/watch?v=uTvWxZgAbLo
 Video of Gameplay Retro version
 https://www.youtube.com/watch?v=FjLtyzr_POc
 Download Link - Anime Bubble Gum
-https://drive.google.com/file/d/1tgLKkmmxcbT1hYPcnF6QE6s4GdXq4oYc/view?usp=drivesdk
+https://drive.google.com/file/d/1tgLKkmmxcbT1hYPcnF6QE6s4GdXq4oYc/view?usp=drive_link
 Download Link - Retro Bubble Gum
-https://drive.google.com/file/d/1JfXCnzqp4RsUTDhaJOFIbs36LjSBD9vZ/view?usp=drive_link
+https://drive.google.com/file/d/19IA9MuQWs7l1034zYP8whdAPyp_VHrXn/view?usp=drive_link
 
 Download Link - Quake 3 Champions mod - bloodrun 2026-03-20 version
-https://drive.google.com/file/d/1T7qFMDT_hYMgLvVFChpgISy29mm-_Bd2/view?usp=sharing
+https://disk.yandex.ru/d/g0_jL-McPKpE8A
 Download Link Quake 3 arena - Defrag neural network upscaled textures - 15gb
 https://mega.nz/file/UwYhnC6K#_K8wXITjnDOdM_0IQDlXTsWmpMynClP8kWPtuomjdys
 
