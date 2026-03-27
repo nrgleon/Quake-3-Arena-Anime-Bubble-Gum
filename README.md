@@ -31,5 +31,6 @@ https://t.me/+UqKf_t9BcyLmNRPt - My Clan Arena Community
 https://t.me/doszonemp - Browser Quake 3 Arena Project Chat Group
 https://dos.zone/mp - Browser Quake 3 Arena Project 
 https://t.me/bloodrun_pts - Quake 3 Champions mod community (bloodrun)
+Russian article about Bloodrun: https://belongplay.ru/bloodrun-quake-3-champions/
 
 You can thank and support the author for developing the assembly Bubble Gum using the Russian bank card details 2204 1201 2637 4442, or by writing to the Telegram channel @Glowing523.
