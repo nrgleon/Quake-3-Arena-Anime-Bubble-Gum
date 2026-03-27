@@ -17,6 +17,7 @@ Download Link Quake 3 arena - Defrag neural network upscaled textures - 15gb
 https://mega.nz/file/UwYhnC6K#_K8wXITjnDOdM_0IQDlXTsWmpMynClP8kWPtuomjdys
 Quake Champions: DooM Edition project - https://qzandronum.com/
 Quake Champions: DooM Edition project video https://www.youtube.com/watch?v=rPKJXfjYWwA
+source - github.com/IgeNiaI/Q-Zandronum
 
 Download Link - Another Custom Modern Quake 3 Arena game builds
 https://scoqx.github.io/en/compilations.html
