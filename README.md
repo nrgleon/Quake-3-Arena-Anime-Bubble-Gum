@@ -15,6 +15,8 @@ Download Link - Quake 3 Champions mod - bloodrun 2026-03-20 version
 https://disk.yandex.ru/d/g0_jL-McPKpE8A
 Download Link Quake 3 arena - Defrag neural network upscaled textures - 15gb
 https://mega.nz/file/UwYhnC6K#_K8wXITjnDOdM_0IQDlXTsWmpMynClP8kWPtuomjdys
+Quake Champions: DooM Edition project - https://qzandronum.com/
+Quake Champions: DooM Edition project video https://www.youtube.com/watch?v=rPKJXfjYWwA
 
 Download Link - Another Custom Modern Quake 3 Arena game builds
 https://scoqx.github.io/en/compilations.html
