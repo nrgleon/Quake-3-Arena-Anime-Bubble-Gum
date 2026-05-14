@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=FjLtyzr_POc
 Download Link - Anime Bubble Gum
 https://drive.google.com/file/d/1tgLKkmmxcbT1hYPcnF6QE6s4GdXq4oYc/view?usp=drive_link
 Download Link - Retro Bubble Gum
-https://drive.google.com/file/d/1AhUBuFjCkQFi7W84yVShURik9IiBiem4/view?usp=drivesdk
+https://drive.google.com/file/d/1V-1dlMTKyvWnFrsjsI7maqMY71IjcZEa/view?usp=drive_link
 
 Download Link - Quake 3 Champions mod - bloodrun 2026-03-20 version
 https://disk.yandex.ru/d/g0_jL-McPKpE8A
