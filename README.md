@@ -20,7 +20,7 @@ Quake Champions: DooM Edition project video https://www.youtube.com/watch?v=rPKJ
 source - github.com/IgeNiaI/Q-Zandronum
 
 Download Link - Another Custom Modern Quake 3 Arena game builds
-https://scoqx.github.io/en/compilations.html
+https://konstalker.github.io/en/compilations.html
 
 Russian Public Servers and community about Quake 3 arena OSP modern engine servers.
 https://defrag.racing/ - Defrag Site
